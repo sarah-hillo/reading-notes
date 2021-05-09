@@ -1,7 +1,7 @@
-The control flow is the order
- in which the computer executes statements in a script.
+**The control flow is the order
+ in which the computer executes statements in a script.**
 
-JavaScript has the following types of operators:
+**JavaScript has the following types of operators:**
 
 - Assignment operators
 - Comparison operators
@@ -14,4 +14,4 @@ JavaScript has the following types of operators:
 - Unary operators
 - Relational operators
 
-JavaScript has both binary and unary operators, and one special ternary operator, the conditional operator.
+**JavaScript has both binary and unary operators, and one special ternary operator, the conditional operator.**
