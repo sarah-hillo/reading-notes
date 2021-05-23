@@ -30,5 +30,8 @@
 ### Table of Contents 201
 | Assigments   | Links            |
 | ----------   | ----------       |
-| Lab1         | [link](102/Lab1.md)  |
-| Read1        | [link](102/read1.md) |
+| Read01         | [link](201/read01.md)  |
+| Read02        | [link](201/read02.md) |
+| Read03        | |
+| Read04        |  |
+| Read05        |  |
