@@ -19,15 +19,23 @@ the page (e.g. headings, subheadings, paragraphs).
 -  They also provide semantic information
 the web.
 - Flash is not supported on iPhone or iPad.
--  HTML5 introduces new <video> and <audio>
-elements for adding video and audio to web pages, but
-these are only supported in the latest browsers.
+
 -  Browsers that support the HTML5 elements do not
-all support the same video and audio formats, so you
+all support the same video and audio formats, as you
 need to supply your files in different formats to ensure
 that everyone can see/hear them.
 -  Different types of selectors allow you to target your
 rules at different elements.
 -  Declarations are made up of two parts: the properties
-of the element that you want to change, and the values
-of those properties. 
+of the element that you want to change, and the values of those properties. 
+
+#### Decisions and Loops
+
+If statements 
+- If a condition is true, then run the code in that block.
+If...Else statements 
+- If a condition is true, then run the code in that block. Otherwise, run the code in the else block.
+For loops 
+- Run the code in this block based on a set number of iteration. This is known.
+While loops 
+- Run the code in this block while a condition is true. The number of iterations is unknown.

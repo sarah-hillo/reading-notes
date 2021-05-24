@@ -1,23 +1,25 @@
 ### How the web works
-* The web server host the site somewhere in the
+
+**The web server host the site somewhere in the
 world. In order for you to find the location of
 the web server, your browser will first connect
-to a Domain Name System (DNS) server. * 
+to a Domain Name System (DNS) server.** 
 
-* "HTML Uses Elements
+**"HTML Uses Elements
 to Describe the
-Structure of Pages."* [1]
+Structure of Pages."** [1]
 
-* "Tags act like containers. They tell you
+**"Tags act like containers. They tell you
 something about the information that lies
-between their opening and closing tags." * p.29
-* "Attributes provide additional information
+between their opening and closing tags."** p.29
+
+**"Attributes provide additional information
 about the contents of an element. They appear
 on the opening tag of the element and are
 made up of two parts: a name and a value,
-separated by an equals sign" * [2]
+separated by an equals sign"** [2]
 #### Escape Characters
-* "There are some characters that are used in
+**"There are some characters that are used in
 and reserved by HTML code. (For example, the
 left and right angled brackets.)
 When using escape characters,
@@ -29,18 +31,18 @@ do not support all of these
 characters and you might
 therefore need to specify
 a different font for these
-characters in your CSS code." * [3]
+characters in your CSS code."** [3]
 
-* "Older browsers that do not understand HTML5
+**"Older browsers that do not understand HTML5
 elements need to be told which elements are
-block-level elements." * [4] 
+block-level elements."** [4] 
 
 ## PROCESS & Design
 - It's important to understand who your target audience
 is, why they would come to your site, what information
 they want to find and when they are likely to return.
 - Site maps allow you to plan the structure of a site.
-X Wireframes allow you to organize the information that
+- Wireframes allow you to organize the information that
 will need to go on each page.
 - Design is about communication. Visual hierarchy helps
 visitors understand what you are trying to tell them.
@@ -70,5 +72,3 @@ References Duckett HTML book:
 [3] p.200
 [4] p.457
 [5] p.181
-
-
