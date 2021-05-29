@@ -41,4 +41,4 @@ when they have visited a link
 - Use GIF format for images that contain animations."[1]
 
 resource:
-[1][link]https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+[1][link](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)

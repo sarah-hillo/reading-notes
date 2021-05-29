@@ -23,3 +23,5 @@
 | Read03        | [link](201/read03.md) |
 | Read04        | [link](201/read04.md) |
 | Read05        | [link](201/read04.md) |
+| Read06        | [link](201/read06.md) |
+| Read07        | [link]() |
