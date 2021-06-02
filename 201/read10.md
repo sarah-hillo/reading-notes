@@ -1,8 +1,7 @@
 ### Error Handling & Debugging
 
 " 
-** Each time a script enters a new execution context, there are two phases ** 
-of activity: 
+**Each time a script enters a new execution context, there are two phases of activity:**
 1: PREPARE 
 - The new scope is created .
 - Variables, functions, and arguments are created .
