@@ -26,6 +26,7 @@ its own error object, which can tell you its line number
 and gives a description of the error.**" [2]
 
 resource: 
+
 From the Duckett JS book 
 [1] p.456
 [2] p.486
