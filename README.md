@@ -1,7 +1,16 @@
-# reading-notes
-### Intro
-*I'm Sarah, I have a bleacher degree in Computer Information System from the Hashemite university and glad to be here to develop my software development skills.* 
 
+# reading-notes
+
+### Intro
+*I'm Sarah, I have a bachelor's degree in Computer Information System from the Hashemite university and glad to be here to develop my software development skills.* 
+
+
+
+**Description of what this web site is about:**
+**It is a way to document and highlight my new knowledge,where I can keep track of my observations and questions from the reading assignments throughout the course.**
+
+
+## Code 102 - Intro to Software Development
 ### Table of Contents 102
 | Assigments   | Links            |
 | ----------   | ----------       |
@@ -15,6 +24,7 @@
 | Read06        | [link](102/read06.md) |
 
 
+## Code 201 - Foundations of Software Development
 ### Table of Contents 201
 | Assigments   | Links            |
 | ----------   | ----------       |
@@ -33,3 +43,17 @@
 | Read13        | [link](201/read13.md) |
 | Read14a        | [link](201/read14a.md) |
 | Read14b        | [link](201/read14b.md) |
+
+
+## Code 301 - Intermediate Software Development
+### Table of Contents 301
+| Assigments   | Links            |
+| ----------   | ----------       |
+| Read01        | |
+
+
+## Code 401 - Advanced Software Development
+### Table of Contents 401
+| Assigments   | Links            |
+| ----------   | ----------       |
+| Read01        | |
