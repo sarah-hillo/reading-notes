@@ -49,7 +49,7 @@
 ### Table of Contents 301
 | Assigments   | Links            |
 | ----------   | ----------       |
-| Read01        | |
+| Read01        |  [link](301/read01.md) |
 
 
 ## Code 401 - Advanced Software Development
