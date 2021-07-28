@@ -35,3 +35,4 @@ it updates the state by incrementing the count if the name matches the one that 
 - How can you pass a method from a parent component into a child component? through the props.
 - How does the child component invoke a method that was passed to it from a parent component?
 Passing data from child to parent through functions.
+## Things I want to know more about
