@@ -27,10 +27,11 @@ const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
 console.log(fewMoreFruit) // Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
 - Give an example of using the spread operator to combine two objects into one.
 const objectOne = {hello: "🤪"} const objectTwo = {world: "🐻"} const objectThree = {...objectOne, ...objectTwo, laugh: "😂"} console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" } const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}} objectFour.laugh() // 😂😂😂😂😂
+
 ## How to Pass Functions Between Components
-- In the video, what is the first step that the developer does to pass functions between components?
-it updates the state by incrementing the count if the name matches the one that passed to the function.
 - In your own words, what does the increment function do?
+it updates the state by incrementing the count if the name matches the one that passed to the function.
+
 - How can you pass a method from a parent component into a child component? through the props.
 - How does the child component invoke a method that was passed to it from a parent component?
 Passing data from child to parent through functions.
