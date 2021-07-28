@@ -51,6 +51,7 @@
 | ----------   | ----------       |
 | Read01        |  [link](301/read01.md) |
 | Read02        |  [link](301/read02.md) |
+| Read03        |  [link](301/read03.md) |
 
 
 ## Code 401 - Advanced Software Development
