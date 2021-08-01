@@ -54,6 +54,8 @@
 | Read03        |  [link](301/read03.md) |
 | Read04        |  [link](301/read04.md) |
 | Read05        |  [link](301/read05.md) |
+| Read06       |  [link](301/read06.md) |
+| Read07        |  [link](301/read07.md) |
 
 
 
