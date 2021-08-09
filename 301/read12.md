@@ -9,16 +9,15 @@ Fill in the chart below with five differences between SQL and NoSQL databases:
 | ----------     | ----------       |
 | table based databases       |  document based, key-value pairs, graph databases or wide-column stores. |
 | ----------     | ----------       |
-
-|  have predefined schema        |   dynamic schema for unstructured data. |
+|  have predefined schema         |   dynamic schema for unstructured data. |
 | ----------     | ----------       |
-
-| uses SQL ( structured query language ) for defining and manipulating the data, which is very powerful        |  queries are focused on collection of documents. |
+| uses SQL ( structured query language ) for defining and manipulating the data, which is very powerful       | queries are focused on collection of documents. |
 | ----------     | ----------       |
 
 | SQL databases are good fit for the complex query intensive environment      |  NoSQL databases are not good fit for complex queries.  | 	 
  	 
- 	 
+
+ 
 - What kind of data is a good fit for an SQL database?Give a real world example.
 For complex queries: SQL databases are good fit for the complex query intensive environment whereas NoSQL databases are not good fit for complex queries. On a high-level
 
